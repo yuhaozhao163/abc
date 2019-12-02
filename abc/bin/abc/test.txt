@@ -9,9 +9,6 @@
 
   
                                     V3
-<<<<<<< HEAD
                                     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-=======
                                     
                                     zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
->>>>>>> branch 'master' of https://github.com/yuhaozhao163/abc.git
